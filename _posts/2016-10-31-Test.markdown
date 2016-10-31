@@ -1,3 +1,10 @@
+---
+layout: post
+title:  "Test"
+date:   2016-10-31 08:56:41 -0400
+categories: test
+---
+
 Hello world
 123
 <h1>hello world</h1>
