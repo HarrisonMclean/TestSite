@@ -4,8 +4,8 @@ title: FIT2101 Post
 date: 2017-7-28 00:00:00
 categories: IT
 ---
-###Hello here is a test commit for FIT2101. 
-####My name is Harrison Mclean, here is my Table entry for the frist Lab.
+### Hello here is a test commit for FIT2101. 
+#### My name is Harrison Mclean, here is my Table entry for the frist Lab.
 
 
 | Name: | Harrison Mclean |
