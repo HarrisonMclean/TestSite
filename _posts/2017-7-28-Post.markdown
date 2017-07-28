@@ -12,5 +12,5 @@ categories: IT
 | Course: | Bachelor of Science |
 | Programming languages known: | Python, HTML, CSS, Javascript, Java, C++ |
 | Technical interests: | Web Development, Blockchain Development, Cryptoeconomics, Fintech, Project Management|
-| Website | www.ezira.io |
+| Website | [Ezira](www.ezira.io) |
 | Twitter | [@HazMclean](www.twitter.com/HazMclean) |
