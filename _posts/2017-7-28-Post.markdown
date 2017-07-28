@@ -7,9 +7,9 @@ categories: IT
 Hello here is a test commit for FIT2101. 
 My name is Harrison Mclean, here is my Table entry for the frist Lab.
 
----
-name: Harrison Mclean
-course: Bachelor of Science
-programming languages known: Python, HTML, CSS, Javascript, Java, C++
-technical interests: Web Development, Blockchain Development, Cryptoeconomics, Fintech, Project Management
----
+
+| name | Harrison Mclean |
+| course | Bachelor of Science |
+|programming languages known | Python, HTML, CSS, Javascript, Java, C++ |
+|technical interests | Web Development, Blockchain Development, Cryptoeconomics, Fintech, Project Management|
+
